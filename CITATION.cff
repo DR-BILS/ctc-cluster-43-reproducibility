@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you reuse this code, please cite the accompanying manuscript."
+title: "CTC_Cluster_43 reproducible analysis"
+type: software
+license: MIT
+authors:
+  - name: DR-BILS
+version: "1.0.0"
+date-released: "2026-09-07"
